@@ -68,3 +68,6 @@
 | **Hardware**   | [Rids](hw/Rids%20%5BEasy%5D)                                                            | Read flash memory                                                 | ⭐⭐                    |
 | **Hardware**   | [The PROM](hw/The%20PROM%20%5BMedium%5D)                                                | Read the extra memory of an EEPROM.                               | ⭐⭐⭐                 |
 | **Hardware**   | [Flash-ing Logs](hw/Flash-ing%20Logs%20%5BHard%5D)                                      | Flash memory                                                      | ⭐⭐⭐⭐               |
+| **Blockchain** | [Russian Roulette](blockchain/Russian%20Roulette%20%5BVery%20Easy%5D)                   | Small brute force in a function call                              | ⭐                      |
+| **Blockchain** | [Recovery ](blockchain/Recovery%20%5BEasy%5D)                                           | Recover stolen BTC funds given an Electrum seed phrase            | ⭐⭐                    |
+| **Blockchain** | [Lucky Faucet](blockchain/Lucky%20Faucet%20%5BEasy%5D)                                  | Integer Underflow                                                 | ⭐⭐                    |
