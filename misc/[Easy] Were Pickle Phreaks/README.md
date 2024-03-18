@@ -191,7 +191,7 @@ So just like that, we can achieve code execution through the imported random mod
 
 ### [__Challenge Code__](#challenge_code)
 
-The codes of 'app.py` and `sandbox.py` are presented below respectively:
+The codes of `app.py` and `sandbox.py` are presented below respectively:
 
 ```python
 from sandbox import unpickle, pickle
@@ -266,7 +266,8 @@ def main():
         print()
 
 if __name__ == '__main__':
-    main()```
+    main()
+```
 
 ```python
 from base64 import b64decode, b64encode 
